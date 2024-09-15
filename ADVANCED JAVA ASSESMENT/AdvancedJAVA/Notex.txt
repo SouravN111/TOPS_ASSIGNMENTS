@@ -1,0 +1,5 @@
+JAVA architecture works on model view controller(MVC)
+
+->View :  Frontend comes under this, HTML, CSS, JS, JQuery, images, icons comes in this.
+->Controller : This means servlet i.e. a structured java file.
+->Model : Interface between view and controller.
